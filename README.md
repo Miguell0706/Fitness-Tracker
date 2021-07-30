@@ -27,7 +27,7 @@ The FitnessTracker application allows the user to input a workout and assign it 
 ## Installation
 Fork the repo, run npm i , then run your local host, or you can follow this link to the deployed application on heroku!
 
-[Link to heroku app here!](#) 
+[Link to heroku app here!](https://fitness-tracker3757.herokuapp.com/?id=61038cf66c8b800015efad5b) 
 
 ![Screenshot (1765)](https://user-images.githubusercontent.com/82692900/127603177-850a2d02-0db3-469c-a460-e2060ba31a7d.png)
 
