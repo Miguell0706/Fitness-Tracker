@@ -16,7 +16,7 @@
 
 
 ## Description: 
-The FitnessTracker application allows the user to input a workout and assign it to either a cardio or resistance group and input more information about the workout based on wether the workout is cardio based or resistance based. The application then adds up the user's workouts and gives a total time, weight lifted, miles ran, etc...  and dislpays it via a line graph and pie graph for the user to see!
+The FitnessTracker application allows the user to input a workout and assign it to either a cardio or resistance group and input more information about the workout based on whether the workout is cardio based or resistance based. The application then adds up the user's workouts and gives a total time, weight lifted, miles ran, etc...  and displays it via a line graph and pie graph for the user to see!
 
 
 
